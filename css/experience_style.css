@@ -1,13 +1,13 @@
 /* Navigation follows the same structure as home.css [3, 5] */
-body { background-color: #f0f8ff; margin: 0; padding-top: 150px; font-family: "Libre Baskerville", serif; }
-ul { font-family: "League Spartan", sans-serif; list-style-type: none; position: fixed; top: 0; left: 0; margin: 0; width: 100%; height: 124px; background-color: ForestGreen; }
+body { background-color: #f0f8ff; margin: 0; padding-top: 150px; font-family: Tahoma, sans-serif; }
+ul { font-family: Tahoma, sans-serif; list-style-type: none; position: fixed; top: 0; left: 0; margin: 0; width: 100%; height: 124px; background-color: ForestGreen; }
 li { float: left; font-size: 30px; font-weight: bold; padding-top: 10px; }
 li a { display: block; color: white; padding: 14px 16px; text-decoration: none; }
 .active { background-color: #004d00; }
 
-h1 { font-family: "League Spartan", sans-serif; color: ForestGreen; text-align: center; font-size: 80px; }
+h1 { font-family: Tahoma, sans-serif; color: ForestGreen; text-align: center; font-size: 80px; }
 .office { display: flex; justify-content: center; margin-top: 20px; }
 .container { border: 5px solid ForestGreen; padding: 20px; width: 60%; background-color: #ADD8E6; }
 .Contact_Donors { display: flex; justify-content: space-evenly; margin-top: 40px; }
-h2 { color: ForestGreen; font-family: "League Spartan", sans-serif; }
-h5 { color: #004d00; font-family: "League Spartan", sans-serif; text-align: center; }
+h2 { color: ForestGreen; font-family: Tahoma, sans-serif; }
+h5 { color: #004d00; font-family: Tahoma, sans-serif; text-align: center; }

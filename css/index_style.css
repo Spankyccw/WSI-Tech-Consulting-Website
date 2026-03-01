@@ -3,12 +3,12 @@ body {
     background-color: #f0faff; /* Light Blue tint */
     margin: 0; 
     padding-top: 124px; /* Space for fixed nav */
-    font-family: "Libre Baskerville", serif; /* Professional body font */
+    font-family: Tahoma, sans-serif; /* Professional body font */
 }
 
 /* Fixed Navigation using Forest Green */
 ul { 
-    font-family: "League Spartan", sans-serif; 
+    font-family: Tahoma, sans-serif; 
     list-style-type: none; 
     position: fixed; 
     top: 0; 
@@ -21,13 +21,13 @@ ul {
 }
 
 li { float: left; font-size: 30px; font-weight: bold; padding-top: 10px; }
-li a { display: block; color: #f3e2c6; text-align: center; padding: 14px 16px; text-decoration: none; }
+li a { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; }
 li a:hover:not(.active) { background-color: #228B22; } /* Darker green hover */
 .active { background-color: #004d00; }
 
 /* Hero Section Styles */
 h1 { 
-    font-family: "League Spartan", sans-serif; 
+    font-family: Tahoma, sans-serif; 
     color: white; 
     text-align: center; 
     padding-top: 5%; 
